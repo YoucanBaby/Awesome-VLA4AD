@@ -133,6 +133,7 @@ multiple tasks such as perception, prediction or planning.*
 | FSDrive       | 2025 | Visual Reasoning     | https://arxiv.org/abs/2505.17685 / [Code](https://github.com/MIV-XJTU/FSDrive)           |
 | AutoVLA        | 2025 | Drive Tokens + CoT     | https://arxiv.org/abs/2506.13757 / [Code](https://github.com/ucla-mobility/AutoVLA)           |
 |Drive-R1        | 2025 | CoT-Aligned Planning   | https://arxiv.org/abs/2506.18234            |
+|Alpamayo-R1     | 2025 | Chain of Causation Reasoning | https://arxiv.org/abs/2511.00088      |
 ---
 
 ## 📊 Datasets & Benchmarks
